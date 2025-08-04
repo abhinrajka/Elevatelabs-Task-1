@@ -1,2 +1,11 @@
-# Elevatelabs-Task-1
-This repository contains the results and analysis of a network scan conducted using Nmap on the local subnet. The scan aims to identify active hosts, open ports, and potential security concerns within the network environment.
+# Network Port Scan using Nmap
+
+This project demonstrates how to scan a local network for open ports using Nmap. The goal is to identify exposed services and understand basic network reconnaissance.
+
+## 🔧 Tools Used
+- **Nmap** – For scanning IP ranges and ports.
+- **Wireshark** (optional) – For packet analysis.
+
+## 📌 Command Used
+```bash
+nmap -sS 192.168.1.0/24
