@@ -8,4 +8,5 @@ This project demonstrates how to scan a local network for open ports using Nmap.
 
 ## 📌 Command Used
 ```bash
-nmap -sS 192.168.1.0/24
+nmap -sS (ip)
+
