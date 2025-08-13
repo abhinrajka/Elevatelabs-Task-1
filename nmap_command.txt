@@ -1,1 +1,1 @@
-nmap -sS 10.67.159.0/24
+nmap -sS 192....(ip address)
